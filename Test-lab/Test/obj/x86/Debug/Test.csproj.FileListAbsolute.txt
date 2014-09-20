@@ -34,3 +34,6 @@ C:\Users\z\Desktop\Test-lab\Test\obj\x86\Debug\Test.Form1.resources
 C:\Users\z\Desktop\Test-lab\Test\obj\x86\Debug\Test.Properties.Resources.resources
 C:\Users\z\Desktop\Test-lab\Test\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Users\z\Desktop\Test-lab\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\z\Documents\GitHub\test\Test-lab\Test\obj\x86\Debug\Test.csproj.ResolveComReference.cache
+C:\Users\z\Documents\GitHub\test\Test-lab\Test\obj\x86\Debug\Test.exe
+C:\Users\z\Documents\GitHub\test\Test-lab\Test\obj\x86\Debug\Test.pdb
