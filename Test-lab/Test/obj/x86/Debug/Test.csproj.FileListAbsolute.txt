@@ -1,0 +1,36 @@
+c:\users\z\documents\visual studio 2010\Projects\Test\Test\bin\Debug\Test.exe
+c:\users\z\documents\visual studio 2010\Projects\Test\Test\bin\Debug\Test.pdb
+c:\users\z\documents\visual studio 2010\Projects\Test\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\z\documents\visual studio 2010\Projects\Test\Test\obj\x86\Debug\Test.csproj.ResolveComReference.cache
+c:\users\z\documents\visual studio 2010\Projects\Test\Test\obj\x86\Debug\Test.Form1.resources
+c:\users\z\documents\visual studio 2010\Projects\Test\Test\obj\x86\Debug\Test.Properties.Resources.resources
+c:\users\z\documents\visual studio 2010\Projects\Test\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\z\documents\visual studio 2010\Projects\Test\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\z\documents\visual studio 2010\Projects\Test\Test\obj\x86\Debug\Test.exe
+c:\users\z\documents\visual studio 2010\Projects\Test\Test\obj\x86\Debug\Test.pdb
+C:\Users\zhanghongwei\Desktop\Test\Test\obj\x86\Debug\Test.csproj.ResolveComReference.cache
+C:\Users\zhanghongwei\Desktop\Test\Test\obj\x86\Debug\Test.exe
+C:\Users\zhanghongwei\Desktop\Test\Test\obj\x86\Debug\Test.pdb
+C:\Users\zhanghongwei\Desktop\Test\Test\bin\Debug\Test.exe
+C:\Users\zhanghongwei\Desktop\Test\Test\bin\Debug\Test.pdb
+C:\Users\zhanghongwei\Desktop\Test\Test\obj\x86\Debug\Test.Form1.resources
+C:\Users\zhanghongwei\Desktop\Test\Test\obj\x86\Debug\Test.Properties.Resources.resources
+C:\Users\zhanghongwei\Desktop\Test\Test\obj\x86\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\zhanghongwei\Desktop\work_城规\Test\Test\obj\x86\Debug\Test.csproj.ResolveComReference.cache
+C:\Users\zhanghongwei\Desktop\work_城规\Test\Test\obj\x86\Debug\Test.exe
+C:\Users\zhanghongwei\Desktop\work_城规\Test\Test\obj\x86\Debug\Test.pdb
+C:\Users\zhanghongwei\Desktop\work_城规\Test\Test\bin\Debug\Test.exe
+C:\Users\zhanghongwei\Desktop\work_城规\Test\Test\bin\Debug\Test.pdb
+C:\Users\zhanghongwei\Desktop\work_城规\Test\Test\obj\x86\Debug\Test.Form1.resources
+C:\Users\zhanghongwei\Desktop\work_城规\Test\Test\obj\x86\Debug\Test.Properties.Resources.resources
+C:\Users\zhanghongwei\Desktop\work_城规\Test\Test\obj\x86\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\z\Desktop\Test-lab\Test\obj\x86\Debug\Test.csproj.ResolveComReference.cache
+C:\Users\z\Desktop\Test-lab\Test\obj\x86\Debug\Test.exe
+C:\Users\z\Desktop\Test-lab\Test\obj\x86\Debug\Test.pdb
+C:\Users\z\Desktop\Test-lab\Test\bin\Debug\Test.exe
+C:\Users\z\Desktop\Test-lab\Test\bin\Debug\Test.pdb
+C:\Users\z\Desktop\Test-lab\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\z\Desktop\Test-lab\Test\obj\x86\Debug\Test.Form1.resources
+C:\Users\z\Desktop\Test-lab\Test\obj\x86\Debug\Test.Properties.Resources.resources
+C:\Users\z\Desktop\Test-lab\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\z\Desktop\Test-lab\Test\obj\x86\Debug\GenerateResource.write.1.tlog
