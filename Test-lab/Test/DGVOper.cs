@@ -43,10 +43,7 @@ namespace Test
             {
                 //首先判断当前单元格是不是需要重绘的单元格
                 //保留此单元格的信息，并抹去此单元格的背景
-                rect.X = cellArgs.CellBounds.X;
-                rect.Y = cellArgs.CellBounds.Y;
-                rect.Width = cellArgs.CellBounds.Width;
-                rect.Height = cellArgs.CellBounds.Height;
+
 
                 rowValue = cellArgs.Value.ToString();
                 rowSpan.Add(cellArgs.ColumnIndex, rect);
